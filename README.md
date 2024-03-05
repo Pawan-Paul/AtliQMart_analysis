@@ -9,8 +9,11 @@ Atliq Mart embarked on an extensive promotional campaign during Diwali and Sankr
 ## Project Structure
 
 Data : I have given all the data I have used for my analysis named from 'dim---' and 'fact---'.
+
 SQL Script: Contains SQL queries for the given problem with problems itself which you can find in the 'Solutions.sql' file.
+
 Power BI Reports:  Includes Power BI files showcasing visualizations and Dashboard.
+
 Presentation : I have also given a powerpoint presentation for all the analysis I have done.
 
 # Presentation
