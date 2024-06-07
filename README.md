@@ -14,6 +14,8 @@ SQL Script: Contains SQL queries for the given problem with problems itself whic
 
 Power BI Reports:  Includes Power BI files showcasing visualizations and Dashboard.
 
+Dashboard link: https://project.novypro.com/aoChXa
+
 Presentation : I have also given a powerpoint presentation for all the analysis I have done.
 
 # Presentation
